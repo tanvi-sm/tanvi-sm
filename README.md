@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Big Data and Analytics
 - 💞️ I’m looking to collaborate on Data science and solve Problems on Kaggle
 - 📫 How to reach me -- Check out this webpage to see my work - https://znap.link/tanvi_sm
+- 📧 You can also mail me at -- tanvi.smaheshwari@gmail.com
 
 
